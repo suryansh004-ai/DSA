@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/suryansh004-ai/DSA/tree/master/0009-palindrome-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
