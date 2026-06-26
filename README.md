@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/suryansh004-ai/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/suryansh004-ai/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/suryansh004-ai/DSA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/suryansh004-ai/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/suryansh004-ai/DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/suryansh004-ai/DSA/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/suryansh004-ai/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
