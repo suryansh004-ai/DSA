@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/suryansh004-ai/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suryansh004-ai/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suryansh004-ai/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/suryansh004-ai/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryansh004-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/suryansh004-ai/DSA/tree/master/0986-interval-list-intersections) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/suryansh004-ai/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
