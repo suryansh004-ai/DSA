@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suryansh004-ai/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/suryansh004-ai/DSA/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryansh004-ai/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/suryansh004-ai/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suryansh004-ai/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suryansh004-ai/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/suryansh004-ai/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryansh004-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
