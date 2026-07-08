@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/suryansh004-ai/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryansh004-ai/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryansh004-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suryansh004-ai/DSA/tree/master/0496-next-greater-element-i) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryansh004-ai/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
