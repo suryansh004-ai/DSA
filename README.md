@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/suryansh004-ai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/suryansh004-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/suryansh004-ai/DSA/tree/master/0525-contiguous-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suryansh004-ai/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/suryansh004-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/suryansh004-ai/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryansh004-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -171,13 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
