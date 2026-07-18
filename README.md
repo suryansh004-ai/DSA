@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suryansh004-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/suryansh004-ai/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryansh004-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/suryansh004-ai/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/suryansh004-ai/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh004-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suryansh004-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/suryansh004-ai/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryansh004-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryansh004-ai/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/suryansh004-ai/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryansh004-ai/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryansh004-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -176,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -191,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suryansh004-ai/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
