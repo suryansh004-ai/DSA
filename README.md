@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suryansh004-ai/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/suryansh004-ai/DSA/tree/master/0202-happy-number) |
+| [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suryansh004-ai/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suryansh004-ai/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/suryansh004-ai/DSA/tree/master/0767-reorganize-string) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
