@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2427-number-of-common-factors](https://github.com/suryansh004-ai/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -230,4 +231,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/suryansh004-ai/DSA/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/suryansh004-ai/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
