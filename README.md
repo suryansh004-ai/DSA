@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/suryansh004-ai/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/suryansh004-ai/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/suryansh004-ai/DSA/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/suryansh004-ai/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
