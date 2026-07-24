@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suryansh004-ai/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/suryansh004-ai/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/suryansh004-ai/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/suryansh004-ai/DSA/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suryansh004-ai/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
