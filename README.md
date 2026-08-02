@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/suryansh004-ai/DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/suryansh004-ai/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryansh004-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryansh004-ai/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0053-maximum-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/suryansh004-ai/DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/suryansh004-ai/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/suryansh004-ai/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/suryansh004-ai/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/suryansh004-ai/DSA/tree/master/0202-happy-number) |
