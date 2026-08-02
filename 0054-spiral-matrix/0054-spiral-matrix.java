@@ -9,15 +9,16 @@ class Solution {
             }rst++;
             for(int i =rst;i<=re;i++){
                 ans.add(matrix[i][ce]);
-            }ce--;
-            if(rst<=re && cst<=ce){
+            }ce--;          
+              if(rst<=re && cst<=ce){
+
                 for(int i =ce;i>=cst;i--){
                 ans.add(matrix[re][i]);
             }re--;
             for(int i = re;i>=rst;i--){
            ans.add(matrix[i][cst]);
             }cst++;
-            }
+              }
         }
         return ans;
    }
