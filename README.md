@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryansh004-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryansh004-ai/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh004-ai/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/suryansh004-ai/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/suryansh004-ai/DSA/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh004-ai/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/suryansh004-ai/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/suryansh004-ai/DSA/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryansh004-ai/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/suryansh004-ai/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
