@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suryansh004-ai/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/suryansh004-ai/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/suryansh004-ai/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suryansh004-ai/DSA/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryansh004-ai/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suryansh004-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/suryansh004-ai/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/suryansh004-ai/DSA/tree/master/0039-combination-sum) |
+| [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryansh004-ai/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryansh004-ai/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryansh004-ai/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/suryansh004-ai/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryansh004-ai/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suryansh004-ai/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryansh004-ai/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryansh004-ai/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryansh004-ai/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
