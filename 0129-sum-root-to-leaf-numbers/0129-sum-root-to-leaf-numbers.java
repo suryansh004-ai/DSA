@@ -16,12 +16,14 @@
 class Solution {
     int res =0;
     public int sumNumbers(TreeNode root) {
-             return sum(root ,0);
+             sum(root ,0);
+
+            return res;
     }
-  int sum(TreeNode root , int s) 
+  void sum(TreeNode root , int s) 
   {
     if(root==null)
-    return 0;
+    return ;
      
      s= (s*10)+root.val; 
     
@@ -31,7 +33,7 @@ class Solution {
      sum(root.left , s);
      sum( root.right ,s);
      
-    return res;
+    return ;
 
   }
 
