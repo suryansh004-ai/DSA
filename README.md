@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryansh004-ai/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/suryansh004-ai/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/suryansh004-ai/DSA/tree/master/1672-richest-customer-wealth) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suryansh004-ai/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryansh004-ai/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suryansh004-ai/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/suryansh004-ai/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryansh004-ai/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
