@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryansh004-ai/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/suryansh004-ai/DSA/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/suryansh004-ai/DSA/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suryansh004-ai/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/suryansh004-ai/DSA/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/suryansh004-ai/DSA/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/suryansh004-ai/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
