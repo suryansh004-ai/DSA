@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/suryansh004-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suryansh004-ai/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/suryansh004-ai/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/suryansh004-ai/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/suryansh004-ai/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suryansh004-ai/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -357,4 +359,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/suryansh004-ai/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
