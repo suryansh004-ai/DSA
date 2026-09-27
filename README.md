@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryansh004-ai/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/suryansh004-ai/DSA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/suryansh004-ai/DSA/tree/master/0994-rotting-oranges) |
+| [1051-height-checker](https://github.com/suryansh004-ai/DSA/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suryansh004-ai/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryansh004-ai/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suryansh004-ai/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/suryansh004-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suryansh004-ai/DSA/tree/master/0767-reorganize-string) |
+| [1051-height-checker](https://github.com/suryansh004-ai/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh004-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh004-ai/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/suryansh004-ai/DSA/tree/master/3731-find-missing-elements) |
@@ -372,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/suryansh004-ai/DSA/tree/master/0785-is-graph-bipartite) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/suryansh004-ai/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/suryansh004-ai/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
