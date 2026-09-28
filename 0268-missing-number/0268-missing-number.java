@@ -1,17 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        
-    HashMap<Integer,Boolean> map = new HashMap<>();
-    for( int num:nums)
+        int xor =0;
+    for( int n =0;n<=nums.length;n++)
     {
-        map.put(num, true);
+        xor = xor^n;
     }
 
-    for(int i =0;i<=nums.length;i++)
+    for(int i :nums)
     {
-        if(!map.containsKey(i))
-        return i;
+        xor =xor^i;
     }
-   return -1;
+   return xor;
     }
 }
