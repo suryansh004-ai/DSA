@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryansh004-ai/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suryansh004-ai/DSA/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/suryansh004-ai/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/suryansh004-ai/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh004-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryansh004-ai/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/suryansh004-ai/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/suryansh004-ai/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/suryansh004-ai/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suryansh004-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/suryansh004-ai/DSA/tree/master/1025-divisor-game) |
